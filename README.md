@@ -1,5 +1,6 @@
 # Trade 2021 Method Presentation Repository
-## trade-method-presentation
+Repository hosted at Github at **trade-method-presentation**.
+Created by Karina Pérez Peña and Sebastián Ocampo Palacios.
 
 Repository with examples for the Method Presentation "Toolkit for Data Analysis and Visualization". 
 The repository contains the basic git files and a sample code to show how to code collaboratively through Github. Therefore, the repository contains the LICENSE file that makes the project a public domain resource (The Unlicense), this README.md file and a sample code provided by Yan Holtz.
