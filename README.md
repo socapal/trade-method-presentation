@@ -1,4 +1,4 @@
-# Trade 2021 Method Presentation Repository
+# Trade 2021 | Method Presentation Repository
 Repository hosted at Github at **trade-method-presentation**.
 Created by Karina Pérez Peña and Sebastián Ocampo Palacios.
 
